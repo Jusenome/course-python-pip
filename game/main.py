@@ -77,4 +77,4 @@ while play == "si":
         print("Opción invalida")
         play = input('Quiere seguir jugando? Digite si (para continuar) o no (para finalizar): ').lower()
         print("+" * 50)
-        
+          
